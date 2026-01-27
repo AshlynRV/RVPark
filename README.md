@@ -11,3 +11,4 @@ Welcome to our project repository!
 - Member 4
 - Member 5
 - Member 6
+Tyler Fleischel - Hello! I enjoy coding websites and reading philsophy.
