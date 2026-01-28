@@ -12,3 +12,4 @@ Welcome to our project repository!
 - Member 4 (Zachary C.): Hi! I like to play rhythm games (and other video games in general), and I even do a bit of animating for them!
 - Member 5 Hello, I am Nicole, I'm excited to work with this group. Some of my hobbies are reading, crochet and cross-stitch. 
 - Member 6
+Tyler Fleischel - Hello! I enjoy coding websites and reading philsophy.
